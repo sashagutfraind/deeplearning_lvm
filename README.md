@@ -1,4 +1,4 @@
-# Deeplearning - Large vector models
+# Large vector models
 Large vector models - a transformer architecture for mixed token-text models
 
 ## Abstract
